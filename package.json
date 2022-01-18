@@ -1,0 +1,15 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express application used to save and view saved notes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seanalan Hool",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
